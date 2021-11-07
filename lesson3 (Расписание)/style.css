@@ -1,0 +1,16 @@
+body {
+    background-color: darksalmon;
+}
+table {
+    margin: auto;
+    width: 1500px;
+    height: 700px;
+}
+th {
+    background-color: indigo;
+    color: honeydew;
+}
+.item {
+    background-color: mediumvioletred;
+    color: lightyellow;
+}
